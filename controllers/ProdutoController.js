@@ -7,7 +7,7 @@ class ProdutoController {
 
     if (nomeProduto) {
       query = { name: { $regex: `${nomeProduto}`, $options: "i" } };
-    }
+    } 
 
     const produtos = await Produto.find(query).lean();
     res.render("produtos", { produtos, nomeProduto });

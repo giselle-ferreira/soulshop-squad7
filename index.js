@@ -1,5 +1,7 @@
 require("dotenv/config");
 require("./database");
+const moment = require('moment'); 
+moment().format();
 
 const express = require("express");
 const exprhbs = require("express-handlebars");
