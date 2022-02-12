@@ -17,50 +17,44 @@
       Buscar
     </button>
   </form>
-  <div class="table-responsive">
-    <table class="table">
-      <thead>
-        <th>Código</th>
-        <th>Desconto</th>
-        <th>Cashback</th>
-        <th>Validade</th>
-        <th>Descrição</th>
-      </thead>
-      <tbody>
-        {{#each cupons}}
-          <tr>
-            <td>{{this.code}}</td>
-            <td>{{this.discount}}</td>
-            <td>{{this.cashback}}</td>
-            <td>{{this.validity}}</td>
-            <td>{{this.description}}</td>
-            <td>
-              <div class="d-flex">
-                <div>
-                  <a
-                    href="/cupons/editar/{{this._id}}"
-                    class="btn btn-sm btn-warning mx-1"
-                  >
-                    <i class="bi bi-pencil"></i>
-                  </a>
-                </div>
-                <div>
-                  <form action="/cupons/delete" method="POST">
-                    <input
-                      name="id"
-                      type="hidden"
-                      value="{{this._id}}"
-                    />
-                    <button class="btn btn-sm btn-danger">
-                      <i class="bi bi-trash"></i>
-                    </button>
-                  </form>
-                </div>
-              </div>
-            </td>
-          </tr>
-        {{/each}}
-      </tbody>
-    </table>
-  </div>
 </section>
+
+<h1 class="my-3">Cupons</h1>
+<section class="coupons-cards">
+  {{#each cupons}}
+
+  <div class="card">
+    <div class="card-body d-flex">
+
+      <div class="left-side">
+        <div class="semi-circle-top"></div>
+        <h6>Cupom</h6>
+        <h2 class="card-title">{{this.code}}</h2>
+        <h4 class="card-subtitle mb-2">{{this.discount}}% <span class="text-muted">de desconto</span></h4>
+        <h4 class="card-subtitle mb-2">{{this.cashback}}% <span class="text-muted">de cashback</span></h4>
+        <div class="semi-circle-bottom"></div>
+        <div><i class="bi bi-scissors"></i></div>
+
+      </div>
+      
+      <div class="right-side">
+        <p class="card-text text-muted">{{this.description}}</p>
+        <div class="d-flex action-buttons">
+          <div>
+            <a href="/cupons/editar/{{this._id}}" class="btn btn-sm btn-warning mx-1"><i class="bi bi-pencil"></i></a>
+          </div>
+          <div>
+            <form action="/cupons/delete" method="POST">
+              <input name="id" type="hidden" value="{{this._id}}"/>
+              <button class="btn btn-sm btn-danger"><i class="bi bi-trash"></i></button>
+          </form>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+  {{/each}}
+</section>
+

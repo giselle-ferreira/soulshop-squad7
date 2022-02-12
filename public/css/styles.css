@@ -1,0 +1,99 @@
+.coupons-cards {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    padding: .2rem;
+    border: 1px solid rgb(150, 150, 150);
+}
+
+.left-side {
+    border: 1px solid rgb(150, 150, 150);
+    border-right: 2.5px dotted rgb(150, 150, 150);
+    border-radius: 7px;
+    padding: 1rem;
+    min-width: 220px;
+    position: relative;
+    background-color: rgb(218, 217, 217);
+}
+
+.right-side {
+    border: 1px solid rgb(150, 150, 150);
+    border-left: none;
+    border-radius: 7px;
+    padding: 1rem;
+    max-width: 120px;
+    position: relative;
+}
+
+/* semi-circle - top */
+.semi-circle-top {
+    width: 30px;
+    height: 15px;
+    border-radius: 0 0 20px 20px;
+    background-color: #fff;
+    border: 1px solid rgb(150, 150, 150);
+    border-top: none;
+    position: absolute;
+    top: -1px;
+    right: -15px;
+    z-index: 1;
+} 
+
+/* semi-circle - bottom */
+.semi-circle-bottom {
+    width: 30px;
+    height: 15px;
+    border-radius: 20px 20px 0 0 ;
+    background-color: #fff;
+    border: 1px solid rgb(150, 150, 150);
+    border-bottom: none;
+    position: absolute;
+    bottom: -1px;
+    right: -15px;
+    z-index: 1;
+} 
+
+.card-title {
+    font-size: 1.7rem;
+    font-weight: 600;
+    border: none;
+    background-color: rgb(226, 225, 225);
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+    box-shadow: 1px 1px 4px rgb(134, 134, 134);
+}
+
+h4 span {
+    font-size: .9rem;
+    font-weight: 400;
+}
+
+.right-side .action-buttons {
+    position: absolute;
+    bottom: .2rem;
+    right: 1.5rem;
+}
+
+.left-side .bi-scissors {
+    position: absolute;
+    font-size: 1.3rem;
+    bottom: 1.4rem;
+    right: -11px;
+    color: rgb(110, 110, 110);
+    z-index: 0;
+}
+
+.card-text {
+    font-size: .9rem;
+    line-height: 1.2rem;
+}
