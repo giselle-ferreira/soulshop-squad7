@@ -1,6 +1,5 @@
 const Cupom = require('../models/Cupom');
-const moment = require('moment'); 
-moment().format();
+
 class CupomController {
     static async paginaCupons(req, res) {
         // Busca
@@ -20,11 +19,9 @@ class CupomController {
     }
 
     static async addCupom(req, res) {
-        const { code, discount, cashback, description } = req.body // ****
-        // let validity = req.body
+        const { code, discount, validity ,cashback, description } = req.body // ****
 
-        // validity = moment().format('DD MM YYYY');
-        console.log(validity)
+        console.log(validity) 
 
         const cupom = Cupom({ code, discount, cashback, validity, description });
        

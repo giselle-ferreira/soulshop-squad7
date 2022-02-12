@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dateformat": "^5.0.2",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
+    "handlebars-dateformat": "^1.1.2",
+    "hbs": "^4.2.0",
     "moment": "^2.29.1",
     "mongoose": "^6.2.1"
   },

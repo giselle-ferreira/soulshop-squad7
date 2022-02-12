@@ -6,7 +6,7 @@ const Cupom = model (
         code: { type: String, required: true },
         discount: { type: Number, required: true },
         cashback: { type: Number, required: true },
-        validity: { type: Date, required: true },
+        validity: { type: String, required: true },
         description: { type: String, required: true },
     })
 )
