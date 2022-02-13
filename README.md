@@ -38,11 +38,11 @@
 > ## Desenvolvedores 🦸‍♀️🦸‍♂️
 
 <p align="left">
-<img src="https://i.postimg.cc/YqzCwvBY/5a4c5f03-df56-4d34-a5d1-bbaab5a0aeb5.jpg" width="138" title="Alexandre Salgueiro"/>
-<img src="https://i.postimg.cc/brK1Rzvv/aline.jpg" width="138" title="Aline"/>
-<img src="https://i.postimg.cc/d1CkY76S/eu.png" width="138" title="Giselle Ferreira"/>
-<img src="https://i.postimg.cc/B6Sp8Q89/vinicius.jpg" width="138" title="José Vinícius"/>
-<img src="https://avatars.githubusercontent.com/u/94268758?v=4" width="138" title="Luciano Barbosa"/>
+<img src="https://i.postimg.cc/26M1wK98/Whats-App-Image-2022-02-13-at-16-11-48.jpg" width="138" title="Alexandre Salgueiro"/>
+<img src="https://i.postimg.cc/q7mhtR8K/Whats-App-Image-2022-02-13-at-16-11-48-1.jpg" width="138" title="Aline"/>
+<img src="https://i.postimg.cc/05KMQ9r6/Whats-App-Image-2022-02-13-at-16-09-26.jpg" width="138" title="Giselle Ferreira"/>
+<img src="https://i.postimg.cc/PJDPFQ0b/Whats-App-Image-2022-02-13-at-16-11-48-2.jpg" width="138" title="José Vinícius"/>
+<img src="https://i.postimg.cc/zfDHXWR5/Whats-App-Image-2022-02-13-at-16-11-49.jpg" width="138" title="Luciano Barbosa"/>
 </p>  
 
 <p align="left">
