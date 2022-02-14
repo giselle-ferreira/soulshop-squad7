@@ -38,24 +38,24 @@
 > ## Desenvolvedores 🦸‍♀️🦸‍♂️
 
 <p align="left">
-<img src="https://i.postimg.cc/YqzCwvBY/5a4c5f03-df56-4d34-a5d1-bbaab5a0aeb5.jpg" width="138" title="Alexandre Salgueiro"/>
-<img src="https://i.postimg.cc/brK1Rzvv/aline.jpg" width="138" title="Aline"/>
-<img src="https://i.postimg.cc/d1CkY76S/eu.png" width="138" title="Giselle Ferreira"/>
-<img src="https://i.postimg.cc/B6Sp8Q89/vinicius.jpg" width="138" title="José Vinícius"/>
-<img src="https://avatars.githubusercontent.com/u/94268758?v=4" width="138" title="Luciano Barbosa"/>
+<img src="https://i.postimg.cc/26M1wK98/Whats-App-Image-2022-02-13-at-16-11-48.jpg" width="138" title="Alexandre Salgueiro"/>
+<img src="https://i.postimg.cc/0N2nKRGh/Whats-App-Image-2022-02-13-at-22-22-53.jpg" width="138" title="Aline"/>
+<img src="https://i.postimg.cc/05KMQ9r6/Whats-App-Image-2022-02-13-at-16-09-26.jpg" width="138" title="Giselle Ferreira"/>
+<img src="https://i.postimg.cc/PJDPFQ0b/Whats-App-Image-2022-02-13-at-16-11-48-2.jpg" width="138" title="José Vinícius"/>
+<img src="https://i.postimg.cc/zfDHXWR5/Whats-App-Image-2022-02-13-at-16-11-49.jpg" width="138" title="Luciano Barbosa"/>
 </p>  
 
 <p align="left">
 <a href="https://github.com/alesalg" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a href="#" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
-<a href="#" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a href="#" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
+<a href="https://www.linkedin.com/in/alesalg" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
+<a href="https://github.com/aline-rosa" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
+<a href="https://github.com/aline-rosa-dev" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
 <a href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a> 
-<a href="https://www.linkedin.com/in/giselle-ferreira/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
+<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
 <a href="https://github.com/euviniciusdev" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
 <a href="https://www.linkedin.com/in/josevinicius-ti" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
 <a align="left" href="https://github.com/Lucianocbarbosa" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a align="left" href="#" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
+<a align="left" href="https://www.linkedin.com/in/lucianocbarbosa/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
 </p>  
 
 
