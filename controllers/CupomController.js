@@ -14,21 +14,21 @@ class CupomController {
         res.render('cupons', { cupons, codigoCupom })
     }
 
+    // Adição
     static async paginaAdicionarCupom(req, res) {
         res.render('add_cupom')
     }
 
     static async addCupom(req, res) {
-        const { code, discount, validity ,cashback, description } = req.body // ****
+        const { code, discount, validity, cashback, description } = req.body 
 
-        console.log(validity) 
-
-        const cupom = Cupom({ code, discount, cashback, validity, description });
-       
+        const cupom = Cupom({ code, discount, validity, cashback, description }); 
+        
         await cupom.save()
         res.redirect('/cupons');
     }
 
+    // Edição
     static async paginaEditCupom(req, res){
         const { id } = req.params;
         const cupom  = await Cupom.findById(id).lean();
@@ -43,6 +43,7 @@ class CupomController {
         res.redirect('/cupons');
     }
 
+    // Exclusão
     static async deleteCupom(req, res) {
         const { id } = req.body;
         await Cupom.findByIdAndDelete(id);

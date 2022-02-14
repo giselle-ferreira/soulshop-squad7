@@ -4,10 +4,16 @@
     max-width: 1200px;
     margin: 0 auto;
     gap: 10px;
+    justify-content: center;
 }
 
 h1 {
     text-align: center;
+}
+
+section .btn-adicionar {
+    background-color: #03989e;
+    color: #fff;
 }
 
 .card {
@@ -78,6 +84,11 @@ h4 span {
     font-weight: 400;
 }
 
+h5 span {
+    font-size: .8rem;
+    font-weight: 400;
+}
+
 .right-side .action-buttons {
     position: absolute;
     bottom: .2rem;
@@ -96,4 +107,8 @@ h4 span {
 .card-text {
     font-size: .9rem;
     line-height: 1.2rem;
+}
+
+.validity {
+    font-size: .7rem;
 }
