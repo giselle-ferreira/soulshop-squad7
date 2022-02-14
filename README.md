@@ -7,7 +7,7 @@
 <br>
 
 > ## Sobre o Projeto
-> Implementações em Projeto de e-commerce em NodeJs, Express (com MongoDB), desenvolvido durante o curso de Desenvolvimento Fullstack da [SoulCode Academy](https://soulcodeacademy.org/). Realizadas pelo { Squad7 }
+> Adição de CRUD (Create + Read + Update + Delete) de *Cupons* em Projeto de página de e-commerce em NodeJs, Express (com MongoDB) e Bootstrap 5, desenvolvido durante o curso de Desenvolvimento Fullstack da [SoulCode Academy](https://soulcodeacademy.org/). Implementação realizada pelo { Squad7 }
 
 <br>
 <br>
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-> ## Desenvolvedores {{ Squad7 }} 🦸‍♀️🦸‍♂️
+> ## Desenvolvedores { Squad7 } 🦸‍♀️🦸‍♂️
 
 <p align="left">
 <img src="https://i.postimg.cc/26M1wK98/Whats-App-Image-2022-02-13-at-16-11-48.jpg" width="138" title="Alexandre Salgueiro"/>
