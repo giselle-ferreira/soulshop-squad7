@@ -28,9 +28,9 @@
 <br>
 
 
-> ## Layout 💻
+> ## Aplicação/ Views 💻
 
-<img src="#" />
+<img src="https://github.com/giselle-ferreira/soulshop-squad7/blob/main/public/img/soulshop-squad7.gif" />
 
 <br>
 <br>
