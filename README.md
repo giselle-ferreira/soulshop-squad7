@@ -28,14 +28,14 @@
 <br>
 
 
-> ## Aplicação/ Views 💻
+> ## App/ Views 💻
 
 <img src="https://github.com/giselle-ferreira/soulshop-squad7/blob/main/public/img/soulshop-squad7.gif" />
 
 <br>
 <br>
 
-> ## Desenvolvedores 🦸‍♀️🦸‍♂️
+> ## Desenvolvedores {{ Squad7 }} 🦸‍♀️🦸‍♂️
 
 <p align="left">
 <img src="https://i.postimg.cc/26M1wK98/Whats-App-Image-2022-02-13-at-16-11-48.jpg" width="138" title="Alexandre Salgueiro"/>
