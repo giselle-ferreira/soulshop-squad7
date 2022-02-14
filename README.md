@@ -39,7 +39,7 @@
 
 <p align="left">
 <img src="https://i.postimg.cc/26M1wK98/Whats-App-Image-2022-02-13-at-16-11-48.jpg" width="138" title="Alexandre Salgueiro"/>
-<img src="https://i.postimg.cc/q7mhtR8K/Whats-App-Image-2022-02-13-at-16-11-48-1.jpg" width="138" title="Aline"/>
+<img src="https://i.postimg.cc/0N2nKRGh/Whats-App-Image-2022-02-13-at-22-22-53.jpg" width="138" title="Aline"/>
 <img src="https://i.postimg.cc/05KMQ9r6/Whats-App-Image-2022-02-13-at-16-09-26.jpg" width="138" title="Giselle Ferreira"/>
 <img src="https://i.postimg.cc/PJDPFQ0b/Whats-App-Image-2022-02-13-at-16-11-48-2.jpg" width="138" title="José Vinícius"/>
 <img src="https://i.postimg.cc/zfDHXWR5/Whats-App-Image-2022-02-13-at-16-11-49.jpg" width="138" title="Luciano Barbosa"/>
